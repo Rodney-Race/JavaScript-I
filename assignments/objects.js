@@ -30,6 +30,7 @@ const kennan = {
   "name": "Kennan",
   "email": "kdiben1@tinypic.com",
   "gender": "M",
+  
   speak() {
     return  "Hello, my name is Kennan!"
   }
